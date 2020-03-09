@@ -168,7 +168,7 @@ index.html. Then click on "Open with" then the name of your favorite browser.
   where you need to be, type `git branch` in your terminal. It should return the
   name of your assigned student emphazised with an asterisk and master. The
   asterisk indicates which branch you're on. It should not be `master`.
-  * For instance, typing `pwd` in the terminal would return:
+  * For instance, typing `git branch` in the terminal would return:
 
 ```text
   master
